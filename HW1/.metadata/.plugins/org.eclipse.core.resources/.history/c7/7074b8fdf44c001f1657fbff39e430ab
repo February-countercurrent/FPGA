@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include "xparameters.h"
+#include "xuartlite.h"
+#include "xil_exception.h"
+
+// Define the UART_BASE_ADDRESS.
+#define UART_BASE_ADDRESS XPAR_UARTLITE_0_BASEADDR
+
+XUartLite UartLite; // 实例化UART
+
+void ISR(void) __attribute__((interrupt_handler));
+u32 count = 0;
+
+void ISR(void) {
+    u8 DataBuffer;
+    // 从UART接收数据
+    if (XUartLite_IsReceiveEmpty(UART_BASE_ADDRESS) == FALSE) {
+        XUartLite_Recv(&UartLite, &DataBuffer, 1);
+        count++;
+        // 输出接收的数据
+        printf("Interrupt occurred! Received data: %c, Count: %d\n", DataBuffer, count);
+    }
+}
+
+int main(void) {
+    int Status;
+
+    // 初始化UART
+    Status = XUartLite_Initialize(&UartLite, XPAR_UARTLITE_0_DEVICE_ID);
+    if (Status != XST_SUCCESS) {
+        printf("UART Initialization Failed\n");
+        return XST_FAILURE;
+    }
+
+    // 启用中断
+    XUartLite_EnableInterrupt(&UartLite);
+    microblaze_enable_interrupts();
+
+    printf("Main loop started. Waiting for interrupts...\n");
+
+    while (1) {
+        ; // 执行有用的工作
+    }
+
+    return 0;
+}

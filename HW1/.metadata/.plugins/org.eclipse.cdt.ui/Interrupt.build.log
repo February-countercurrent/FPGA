@@ -1,0 +1,26 @@
+00:51:41 **** Incremental Build of configuration Debug for project Interrupt ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -ID:/FPGA/HW1/HW1/export/HW1/sw/HW1/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -ID:/FPGA/HW1/HW1/export/HW1/sw/HW1/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: Interrupt.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/FPGA/HW1/HW1/export/HW1/sw/HW1/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Interrupt.elf"  ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Interrupt.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size Interrupt.elf  |tee "Interrupt.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   6504	    280	   3192	   9976	   26f8	Interrupt.elf
+'Finished building: Interrupt.elf.size'
+' '
+
+00:51:42 Build Finished (took 910ms)
+

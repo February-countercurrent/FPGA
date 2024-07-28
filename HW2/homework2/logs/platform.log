@@ -1,0 +1,2058 @@
+TRACE::2024-07-29.00:25:45::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:45::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:45::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:45::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:45::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:45::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-07-29.00:25:46::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-07-29.00:25:46::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2"
+		}]
+}
+TRACE::2024-07-29.00:25:46::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-07-29.00:25:46::SCWDomain::checking for install qemu data   : 
+TRACE::2024-07-29.00:25:46::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2023.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-07-29.00:25:46::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2023.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:46::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2024-07-29.00:25:46::SCWPlatform::Generating the sources  .
+TRACE::2024-07-29.00:25:46::SCWBDomain::Generating boot domain sources.
+TRACE::2024-07-29.00:25:46::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:46::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-07-29.00:25:46::SCWMssOS::No sw design opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::mss does not exists at D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::Creating sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::Adding the swdes entry, created swdb D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::updating the scw layer changes to swdes at   D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::Writing mss at D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:46::SCWMssOS::Completed writing the mss file at D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-07-29.00:25:46::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-07-29.00:25:46::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-07-29.00:25:46::SCWBDomain::Completed writing the mss file at D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-07-29.00:25:50::SCWPlatform::Generating sources Done.
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-07-29.00:25:50::SCWMssOS::No sw design opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::mss exists loading the mss file  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Opened the sw design from mss  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Adding the swdes entry D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-07-29.00:25:50::SCWMssOS::updating the scw layer about changes
+TRACE::2024-07-29.00:25:50::SCWMssOS::Opened the sw design.  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:50::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:50::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:50::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:50::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:50::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWDomain::checking for install qemu data   : 
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:50::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:50::SCWMssOS::No sw design opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::mss does not exists at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Creating sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Adding the swdes entry, created swdb D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss with des name D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::updating the scw layer changes to swdes at   D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Writing mss at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:50::SCWMssOS::Completed writing the mss file at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp
+TRACE::2024-07-29.00:25:50::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-07-29.00:25:50::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-07-29.00:25:50::SCWMssOS::Completed writing the mss file at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp
+TRACE::2024-07-29.00:25:50::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-07-29.00:25:51::SCWMssOS::Writing the mss file completed D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-07-29.00:25:51::SCWPlatform::Started generating the artifacts platform homework2
+TRACE::2024-07-29.00:25:51::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-07-29.00:25:51::SCWPlatform::Started generating the artifacts for system configuration homework2
+LOG::2024-07-29.00:25:51::SCWSystem::Checking the domain zynq_fsbl
+LOG::2024-07-29.00:25:51::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2024-07-29.00:25:51::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-07-29.00:25:51::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2024-07-29.00:25:51::SCWSystem::Checking the domain standalone_domain
+LOG::2024-07-29.00:25:51::SCWSystem::Not a boot domain 
+LOG::2024-07-29.00:25:51::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-07-29.00:25:51::SCWDomain::Generating domain artifcats
+TRACE::2024-07-29.00:25:51::SCWMssOS::Generating standalone artifcats
+TRACE::2024-07-29.00:25:51::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writing the mss file at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp
+TRACE::2024-07-29.00:25:51::SCWMssOS::Mss edits present, copying mssfile into export location D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-07-29.00:25:51::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-07-29.00:25:51::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-07-29.00:25:51::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-07-29.00:25:51::SCWMssOS::Copying to export directory.
+TRACE::2024-07-29.00:25:51::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-07-29.00:25:51::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2024-07-29.00:25:51::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2024-07-29.00:25:51::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-07-29.00:25:51::SCWSystem::Completed Processing the sysconfig homework2
+LOG::2024-07-29.00:25:51::SCWPlatform::Completed generating the artifacts for system configuration homework2
+TRACE::2024-07-29.00:25:51::SCWPlatform::Started preparing the platform 
+TRACE::2024-07-29.00:25:51::SCWSystem::Writing the bif file for system config homework2
+TRACE::2024-07-29.00:25:51::SCWSystem::dir created 
+TRACE::2024-07-29.00:25:51::SCWSystem::Writing the bif 
+TRACE::2024-07-29.00:25:51::SCWPlatform::Started writing the spfm file 
+TRACE::2024-07-29.00:25:51::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-07-29.00:25:51::SCWPlatform::Completed generating the platform
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-07-29.00:25:51::SCWPlatform::updated the xpfm file.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-07-29.00:25:51::SCWPlatform::Clearing the existing platform
+TRACE::2024-07-29.00:25:51::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-07-29.00:25:51::SCWBDomain::clearing the fsbl build
+TRACE::2024-07-29.00:25:51::SCWMssOS::Removing the swdes entry for  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWMssOS::Removing the swdes entry for  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:51::SCWSystem::Clearing the domains completed.
+TRACE::2024-07-29.00:25:51::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform location is D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:51::SCWPlatform::Removing the HwDB with name D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:52::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:52::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:52::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:52::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:52::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:52::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWReader::Active system found as  homework2
+TRACE::2024-07-29.00:25:53::SCWReader::Handling sysconfig homework2
+TRACE::2024-07-29.00:25:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-07-29.00:25:53::SCWDomain:: Using the QEMU Data from install at  : D:/Xilinx/Vitis/2023.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-07-29.00:25:53::SCWDomain:: Using the QEMU args  from install at  : D:/Xilinx/Vitis/2023.1/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-07-29.00:25:53::SCWMssOS::No sw design opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::mss exists loading the mss file  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Opened the sw design from mss  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Adding the swdes entry D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-07-29.00:25:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-07-29.00:25:53::SCWMssOS::Opened the sw design.  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:53::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS:: library already available in sw design:  xilffs:5.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:53::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2024-07-29.00:25:53::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:53::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:53::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-07-29.00:25:53::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:53::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWReader::No isolation master present  
+TRACE::2024-07-29.00:25:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:53::SCWMssOS::No sw design opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::mss exists loading the mss file  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Opened the sw design from mss  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Adding the swdes entry D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-07-29.00:25:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-07-29.00:25:53::SCWMssOS::Opened the sw design.  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.00:25:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.00:25:53::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.00:25:53::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-07-29.00:25:53::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.00:25:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.00:25:53::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.00:25:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.00:25:53::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.00:25:53::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.00:25:53::SCWReader::No isolation master present  
+LOG::2024-07-29.03:34:44::SCWPlatform::Started generating the artifacts platform homework2
+TRACE::2024-07-29.03:34:44::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-07-29.03:34:44::SCWPlatform::Started generating the artifacts for system configuration homework2
+LOG::2024-07-29.03:34:44::SCWSystem::Checking the domain zynq_fsbl
+LOG::2024-07-29.03:34:44::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2024-07-29.03:34:44::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-07-29.03:34:44::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2024-07-29.03:34:44::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:44::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:44::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:44::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.03:34:44::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.03:34:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.03:34:44::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.03:34:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.03:34:44::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.03:34:44::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.03:34:44::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.03:34:44::SCWBDomain::Completed writing the mss file at D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-07-29.03:34:44::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-07-29.03:34:44::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-07-29.03:34:44::SCWBDomain::System Command Ran  D:&  cd  D:/FPGA/HW2/homework2/zynq_fsbl& make -C  zynq_fsbl_bsp & make 
+TRACE::2024-07-29.03:34:44::SCWBDomain::make: Entering directory 'D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-07-29.03:34:44::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-07-29.03:34:44::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-07-29.03:34:44::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-07-29.03:34:44::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-07-29.03:34:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-07-29.03:34:44::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-07-29.03:34:44::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:45::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:45::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-07-29.03:34:45::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-07-29.03:34:45::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_1/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:45::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:45::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-07-29.03:34:45::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-07-29.03:34:45::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:45::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:45::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_1/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-07-29.03:34:45::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-07-29.03:34:45::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-07-29.03:34:45::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:45::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:45::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v5_0/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:46::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:46::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::'Finished building libraries sequentially.'
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -j 30 --no-print-directory par_libs
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-07-29.03:34:46::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-07-29.03:34:46::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-07-29.03:34:46::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-07-29.03:34:46::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-07-29.03:34:46::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-07-29.03:34:46::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_1/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-07-29.03:34:46::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-07-29.03:34:46::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-07-29.03:34:46::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-07-29.03:34:46::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_1/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-07-29.03:34:46::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-07-29.03:34:46::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v5_0/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-07-29.03:34:46::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-07-29.03:34:46::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2024-07-29.03:34:46::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2024-07-29.03:34:46::SCWBDomain:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-07-29.03:34:46::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-07-29.03:34:46::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-07-29.03:34:46::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-07-29.03:34:46::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:46::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:47::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:47::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_1/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-07-29.03:34:47::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-07-29.03:34:47::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:47::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:47::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-07-29.03:34:47::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-07-29.03:34:47::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v8_1/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v5_0/src"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:47::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:47::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:47::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:47::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-07-29.03:34:47::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-07-29.03:34:47::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-07-29.03:34:47::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-07-29.03:34:47::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::'Finished building libraries parallelly.'
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::make --no-print-directory archive
+
+TRACE::2024-07-29.03:34:47::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2024-07-29.03:34:47::SCWBDomain::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2024-07-29.03:34:47::SCWBDomain::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2024-07-29.03:34:47::SCWBDomain::fstat.o ps7_cortexa9_0/lib/getentropy.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7
+TRACE::2024-07-29.03:34:47::SCWBDomain::_cortexa9_0/lib/kill.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/pri
+TRACE::2024-07-29.03:34:47::SCWBDomain::nt.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/
+TRACE::2024-07-29.03:34:47::SCWBDomain::lib/time.o ps7_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/ve
+TRACE::2024-07-29.03:34:47::SCWBDomain::ctors.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o p
+TRACE::2024-07-29.03:34:47::SCWBDomain::s7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/x
+TRACE::2024-07-29.03:34:47::SCWBDomain::devcfg.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xd
+TRACE::2024-07-29.03:34:47::SCWBDomain::evcfg_selftest.o ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/li
+TRACE::2024-07-29.03:34:47::SCWBDomain::b/xdmaps_hw.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9
+TRACE::2024-07-29.03:34:47::SCWBDomain::_0/lib/xil_assert.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_exception.o ps7_cor
+TRACE::2024-07-29.03:34:47::SCWBDomain::texa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/xil_printf.o ps
+TRACE::2024-07-29.03:34:47::SCWBDomain::7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xil_spinlock.o ps7_cortexa9_0/lib/xil
+TRACE::2024-07-29.03:34:47::SCWBDomain::_testcache.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/
+TRACE::2024-07-29.03:34:47::SCWBDomain::xinterrupt_wrap.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xpm_counter.o ps7_c
+TRACE::2024-07-29.03:34:47::SCWBDomain::ortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_co
+TRACE::2024-07-29.03:34:47::SCWBDomain::rtexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xscutimer_
+TRACE::2024-07-29.03:34:47::SCWBDomain::g.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xscuwdt.o ps7_cortexa9_0/li
+TRACE::2024-07-29.03:34:47::SCWBDomain::b/xscuwdt_g.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_cortexa9_0/lib/xtime_l.o
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::'Finished building libraries'
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::make: Leaving directory 'D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2024-07-29.03:34:48::SCWBDomain::exa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-07-29.03:34:48::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-07-29.03:34:48::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c image_mover.c -o image_mover.o -Izynq
+TRACE::2024-07-29.03:34:48::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-07-29.03:34:48::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2024-07-29.03:34:48::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:48::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-07-29.03:34:48::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-07-29.03:34:49::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-07-29.03:34:49::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2024-07-29.03:34:49::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-07-29.03:34:49::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2024-07-29.03:34:49::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-07-29.03:34:49::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf fsbl_handoff.o fsbl_hooks.o image_mover.o main.o md5.o nand.o nor.o pcap.o ps7_init.o qspi.o rsa.
+TRACE::2024-07-29.03:34:49::SCWBDomain::o sd.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id
+TRACE::2024-07-29.03:34:49::SCWBDomain::=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-
+TRACE::2024-07-29.03:34:49::SCWBDomain::group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                            -Wl,--gc-sections -Lzynq_fsbl_bsp/ps7_cort
+TRACE::2024-07-29.03:34:49::SCWBDomain::exa9_0/lib -L./ -Tlscript.ld
+
+LOG::2024-07-29.03:34:49::SCWSystem::Checking the domain standalone_domain
+LOG::2024-07-29.03:34:49::SCWSystem::Not a boot domain 
+LOG::2024-07-29.03:34:49::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-07-29.03:34:49::SCWDomain::Generating domain artifcats
+TRACE::2024-07-29.03:34:49::SCWMssOS::Generating standalone artifcats
+TRACE::2024-07-29.03:34:49::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-07-29.03:34:49::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:49::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:49::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:49::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.03:34:49::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:49::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.03:34:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.03:34:49::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.03:34:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.03:34:49::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:49::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.03:34:49::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:49::SCWMssOS::Completed writing the mss file at D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp
+TRACE::2024-07-29.03:34:49::SCWMssOS::Mss edits present, copying mssfile into export location D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:49::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-07-29.03:34:49::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-07-29.03:34:49::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-07-29.03:34:49::SCWMssOS::doing bsp build ... 
+TRACE::2024-07-29.03:34:49::SCWMssOS::System Command Ran  D: & cd  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-07-29.03:34:49::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-07-29.03:34:49::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-07-29.03:34:49::SCWMssOS::make -j 30 --no-print-directory par_libs
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-07-29.03:34:50::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2024-07-29.03:34:50::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_17/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_1/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_17/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-07-29.03:34:50::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2024-07-29.03:34:50::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-07-29.03:34:50::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS
+TRACE::2024-07-29.03:34:50::SCWMssOS::=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_10/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-07-29.03:34:50::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g
+TRACE::2024-07-29.03:34:50::SCWMssOS:: -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_8/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-07-29.03:34:50::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-
+TRACE::2024-07-29.03:34:50::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_17/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-07-29.03:34:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2024-07-29.03:34:50::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_17/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-07-29.03:34:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2024-07-29.03:34:50::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_1/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-07-29.03:34:50::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g
+TRACE::2024-07-29.03:34:50::SCWMssOS:: -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_10/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-07-29.03:34:50::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2024-07-29.03:34:50::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_8/src"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-07-29.03:34:50::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2024-07-29.03:34:50::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-07-29.03:34:50::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-07-29.03:34:51::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-07-29.03:34:51::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-07-29.03:34:51::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-07-29.03:34:51::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-07-29.03:34:51::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-07-29.03:34:51::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-07-29.03:34:51::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-07-29.03:34:51::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-07-29.03:34:51::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-07-29.03:34:51::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-07-29.03:34:51::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-07-29.03:34:51::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-07-29.03:34:51::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xil_cache.o microblaze_0
+TRACE::2024-07-29.03:34:51::SCWMssOS::/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xil_misc_psreset_api.o microbl
+TRACE::2024-07-29.03:34:51::SCWMssOS::aze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/xil_testio.o microb
+TRACE::2024-07-29.03:34:51::SCWMssOS::laze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib
+TRACE::2024-07-29.03:34:51::SCWMssOS::/xplatform_info.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xtmr
+TRACE::2024-07-29.03:34:51::SCWMssOS::ctr_l.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/li
+TRACE::2024-07-29.03:34:51::SCWMssOS::b/xtmrctr_stats.o microblaze_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/li
+TRACE::2024-07-29.03:34:51::SCWMssOS::b/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::Copying to export directory.
+TRACE::2024-07-29.03:34:51::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-07-29.03:34:51::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-07-29.03:34:51::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-07-29.03:34:51::SCWSystem::Completed Processing the sysconfig homework2
+LOG::2024-07-29.03:34:51::SCWPlatform::Completed generating the artifacts for system configuration homework2
+TRACE::2024-07-29.03:34:51::SCWPlatform::Started preparing the platform 
+TRACE::2024-07-29.03:34:51::SCWSystem::Writing the bif file for system config homework2
+TRACE::2024-07-29.03:34:51::SCWSystem::dir created 
+TRACE::2024-07-29.03:34:51::SCWSystem::Writing the bif 
+TRACE::2024-07-29.03:34:51::SCWPlatform::Started writing the spfm file 
+TRACE::2024-07-29.03:34:51::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-07-29.03:34:51::SCWPlatform::Completed generating the platform
+TRACE::2024-07-29.03:34:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.03:34:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.03:34:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.03:34:51::SCWMssOS::Saving the mss changes D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-07-29.03:34:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-07-29.03:34:51::SCWMssOS::Commit changes completed.
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.03:34:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.03:34:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWWriter::formatted JSON is {
+	"platformName":	"homework2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"homework2",
+	"platHandOff":	"D:/FPGA/self/design_2_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_2_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"homework2",
+	"systems":	[{
+			"systemName":	"homework2",
+			"systemDesc":	"homework2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"homework2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"59ea40caff0f37f10f51e05fc4ff54a3",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:5.0", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.1",
+					"mssFile":	"",
+					"md5Digest":	"d9c06aa771fa0c3a2380b81eb71e7a12",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-07-29.03:34:51::SCWPlatform::updated the xpfm file.
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to open the hw design at D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA given D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA absoulate path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform::DSA directory D:/FPGA/HW2/homework2/hw
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Platform Path D:/FPGA/HW2/homework2/hw/design_2_wrapper.xsa
+TRACE::2024-07-29.03:34:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-07-29.03:34:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2024-07-29.03:34:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-07-29.03:34:51::SCWMssOS::Checking the sw design at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-07-29.03:34:51::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+D:/FPGA/HW2/homework2/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-07-29.03:34:51::SCWMssOS::Sw design exists and opened at  D:/FPGA/HW2/homework2/microblaze_0/standalone_domain/bsp/system.mss

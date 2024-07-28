@@ -1,0 +1,17 @@
+00:05:06 DEBUG : Logs will be stored at 'D:/FPGA/HW2/IDE.log'.
+00:05:09 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\FPGA\HW2\temp_xsdb_launch_script.tcl
+00:05:09 INFO  : Platform repository initialization has completed.
+00:05:09 INFO  : Registering command handlers for Vitis TCF services
+00:05:12 INFO  : XSCT server has started successfully.
+00:05:12 INFO  : Successfully done setting XSCT server connection channel  
+00:05:16 INFO  : plnx-install-location is set to ''
+00:05:16 INFO  : Successfully done setting workspace for the tool. 
+00:05:16 INFO  : Successfully done query RDI_DATADIR 
+00:25:51 INFO  : Result from executing command 'getProjects': homework2
+00:25:51 INFO  : Result from executing command 'getPlatforms': 
+03:34:51 INFO  : Result from executing command 'getProjects': homework2
+03:34:51 INFO  : Result from executing command 'getPlatforms': homework2|D:/FPGA/HW2/homework2/export/homework2/homework2.xpfm
+03:34:51 INFO  : Checking for BSP changes to sync application flags for project 'hw2'...
+04:20:13 INFO  : Checking for BSP changes to sync application flags for project 'hw2'...
+04:21:21 INFO  : Checking for BSP changes to sync application flags for project 'hw2'...
+04:30:35 INFO  : Checking for BSP changes to sync application flags for project 'hw2'...

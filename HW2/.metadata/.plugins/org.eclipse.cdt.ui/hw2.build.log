@@ -1,0 +1,64 @@
+04:30:35 **** Incremental Build of configuration Debug for project hw2 ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -ID:/FPGA/HW2/homework2/export/homework2/sw/homework2/standalone_domain/bspinclude/include -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'test_kernels':
+../src/main.c:43:5: warning: implicit declaration of function 'kernel1_optimized' [-Wimplicit-function-declaration]
+   43 |     kernel1_optimized(A, KERNEL_SIZE, 5);
+      |     ^~~~~~~~~~~~~~~~~
+../src/main.c:55:5: warning: implicit declaration of function 'kernel2_optimized' [-Wimplicit-function-declaration]
+   55 |     kernel2_optimized(A, KERNEL_SIZE);
+      |     ^~~~~~~~~~~~~~~~~
+../src/main.c:67:5: warning: implicit declaration of function 'kernel3_optimized' [-Wimplicit-function-declaration]
+   67 |     kernel3_optimized(C, D, idx, KERNEL_SIZE);
+      |     ^~~~~~~~~~~~~~~~~
+../src/main.c:80:22: warning: implicit declaration of function 'kernel4_optimized' [-Wimplicit-function-declaration]
+   80 |     float sum4_opt = kernel4_optimized(C, D, KERNEL_SIZE);
+      |                      ^~~~~~~~~~~~~~~~~
+../src/main.c:85:5: warning: 'free' called on unallocated object 'A' [-Wfree-nonheap-object]
+   85 |     free(A);
+      |     ^~~~~~~
+../src/main.c:19:5: note: declared here
+   19 | int A[KERNEL_SIZE] __attribute__((section(".bram_mem")));
+      |     ^
+../src/main.c:86:5: warning: 'free' called on unallocated object 'B' [-Wfree-nonheap-object]
+   86 |     free(B);
+      |     ^~~~~~~
+../src/main.c:20:5: note: declared here
+   20 | int B[KERNEL_SIZE] __attribute__((section(".bram_mem")));
+      |     ^
+../src/main.c:87:5: warning: 'free' called on unallocated object 'C' [-Wfree-nonheap-object]
+   87 |     free(C);
+      |     ^~~~~~~
+../src/main.c:21:7: note: declared here
+   21 | float C[KERNEL_SIZE] __attribute__((section(".bram_mem")));
+      |       ^
+../src/main.c:88:5: warning: 'free' called on unallocated object 'D' [-Wfree-nonheap-object]
+   88 |     free(D);
+      |     ^~~~~~~
+../src/main.c:22:7: note: declared here
+   22 | float D[KERNEL_SIZE] __attribute__((section(".bram_mem")));
+      |       ^
+../src/main.c:89:5: warning: 'free' called on unallocated object 'idx' [-Wfree-nonheap-object]
+   89 |     free(idx);
+      |     ^~~~~~~~~
+../src/main.c:23:5: note: declared here
+   23 | int idx[KERNEL_SIZE] __attribute__((section(".bram_mem")));
+      |     ^~~
+'Finished building: ../src/main.c'
+' '
+'Building target: hw2.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/FPGA/HW2/homework2/export/homework2/sw/homework2/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mcpu=v11.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw2.elf"  ./src/kernel.o ./src/main.o ./src/matmul.o ./src/optimization.o ./src/platform.o ./src/timer.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hw2.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size hw2.elf  |tee "hw2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  78484	  22152	   3172	 103808	  19580	hw2.elf
+'Finished building: hw2.elf.size'
+' '
+
+04:30:36 Build Finished (took 594ms)
+

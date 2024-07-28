@@ -1,0 +1,19 @@
+timestamp=[2024-07-28 07:54:30], mode=WORKBENCH_START, duration=0:00:03.656, duration_ms=3656, data={}
+timestamp=[2024-07-28 07:54:30], mode=WORKBENCH_UI_INIT, duration=0:00:00.028, duration_ms=28, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-07-28 07:54:30], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.029, duration_ms=29, data={}
+timestamp=[2024-07-28 07:55:11], mode=PLATFORM_CREATION, duration=0:00:05.131, duration_ms=5131, data={platform_source=dsa, os=standalone, processor=microblaze, platform=null}
+timestamp=[2024-07-28 07:55:53], mode=APP_CREATION, duration=0:00:02.952, duration_ms=2952, data={name=Interrupt, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=HW1, application_type=application}
+timestamp=[2024-07-28 07:57:33], mode=PLATFORM_GENERATION, duration=0:00:08.311, duration_ms=8311, data={name=HW1}
+timestamp=[2024-07-28 07:57:34], mode=BUILD, duration=0:00:01.660, duration_ms=1660, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-28 08:04:20], mode=BUILD, duration=0:00:00.593, duration_ms=593, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-28 08:09:17], mode=BUILD, duration=0:00:00.595, duration_ms=595, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-28 14:23:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.047, duration_ms=47, data={}
+timestamp=[2024-07-28 14:23:24], mode=WORKBENCH_START, duration=0:00:07.933, duration_ms=7933, data={}
+timestamp=[2024-07-28 14:23:24], mode=WORKBENCH_UI_INIT, duration=0:00:00.193, duration_ms=193, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=HW1,Interrupt,Interrupt_system,RemoteSystemsTempFiles}
+timestamp=[2024-07-28 16:11:54], mode=BUILD, duration=0:00:00.954, duration_ms=954, data={name=Interrupt, configuration=Debug, clean_build=true}
+timestamp=[2024-07-28 16:11:56], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-28 23:14:29], mode=BUILD, duration=0:00:01.621, duration_ms=1621, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-28 23:20:59], mode=BUILD, duration=0:00:00.852, duration_ms=852, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-29 00:00:05], mode=BUILD, duration=0:00:00.733, duration_ms=733, data={name=Interrupt, configuration=Debug, clean_build=false}
+timestamp=[2024-07-29 00:51:41], mode=BUILD, duration=0:00:00.173, duration_ms=173, data={name=Interrupt, configuration=Debug, clean_build=true}
+timestamp=[2024-07-29 00:51:42], mode=BUILD, duration=0:00:00.915, duration_ms=915, data={name=Interrupt, configuration=Debug, clean_build=false}
